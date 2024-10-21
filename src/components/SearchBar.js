@@ -42,7 +42,7 @@ const SearchBar = () => {
   return (
     <div>
       <form action="" className="form">
-        <h1>Movie App</h1>
+        <h1>CineView</h1>
 
         <input
           type="text"
